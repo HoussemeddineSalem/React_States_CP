@@ -1,4 +1,4 @@
-##Check-point React States using Class components 
+## Check-point React States using Class components 
 Create a project using create-react-app.\
 Transform the App.js into a class-based component.\
 Implement a state for this class containing a Person ={ fullName,bio, imgSrc, profession} and a boolean shows.\
