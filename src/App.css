@@ -1,0 +1,39 @@
+.headlines-style  {
+    color : black;
+    font-family: Montserrat, sans-serif;
+    font-size : 30px;
+    font-weight: bold;
+   
+  }
+
+.content-style{
+    color: green;
+}  
+
+.col-img{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    
+    
+}
+
+.col-data{
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+    
+}
+
+.timer-style{
+    color : red;
+    font-family: Montserrat, sans-serif;
+    font-size : 30px;
+    font-weight: bold;
+    margin-bottom: 10%;
+}
+
+.img-cercle{
+    border-radius: 30%;
+    border-color: seashell;
+}
